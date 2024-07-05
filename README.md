@@ -17,5 +17,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # TuneyApp
+<<<<<<< HEAD
 basic application to display tunes
 >>>>>>> aca711be0036f9b51df57a11dab40948d16e1be0
+=======
+
+This is the remote change.
+>>>>>>> FETCH_HEAD
+>>>>>>> 9df109ca443c0b8744fe89f28a9bf6e9c4df9c7f
