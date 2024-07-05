@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 # TuneyApp
-basic application to display tunes
+
+This is my local change.
+=======
+# TuneyApp
+
+This is the remote change.
+>>>>>>> FETCH_HEAD
